@@ -15,7 +15,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### About Me 👨🏻‍💻🇻🇪
-I'm a Software Enginner specialisted on full stack web development and founder of [plusteam](https://plusteam.tech) an agile software factory.
+I'm a Software Engineer specialised on full stack web development and founder of [plusteam](https://plusteam.tech).
 
+<details>
+<summary>
+  More about me 👨🏻‍💻🇻🇪
+</summary>
+
+## Overview
+
+I'm a geek person passionate for technology, I really enjoy create modern web apps and learn something new in my area everyday.
+
+## My skills
+
+### Back-end
+- Python
+- Node.js
+- C#
+- C / C++
+- PHP
+- Bash Scripting
+
+### Front-end
+- React
+- Vue.js
+- Gatsby
+- HTML5
+- CSS3
+- Javascript
+- Typescript
+  
+### API
+- RESTful API
+- GraphQL
+- WebServices
+- XML-RPC
+
+</details>
 
