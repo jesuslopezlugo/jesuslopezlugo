@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there, I'm Lugo 👋😃
 
 <!--
 **jesuslopezlugo/jesuslopezlugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### About Me 👨🏻‍💻🇻🇪
+I'm a Software Enginner specialisted on full stack web development and founder of [plusteam](https://plusteam.tech) an agile software factory.
+
+
